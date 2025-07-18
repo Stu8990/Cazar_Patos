@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186876889423",
+    "project_id": "proyectocazarpatos-af192",
+    "storage_bucket": "proyectocazarpatos-af192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186876889423:android:af6d9c77e1f699e353dd3a",
+        "android_client_info": {
+          "package_name": "com.stuart.palma.cazarpatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbS_UMTJcNg_2Ye4OLJ3ZIo5x70UqmQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
